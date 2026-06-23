@@ -1,0 +1,8 @@
+como git usar git merge
+1. perimeroe te camnbais a la rama ddonde quieres traer los camuos
+ejemplon
+quiero traer de develoop a main
+```bash
+1. nos movemos a main 
+2. git merge develop
+```
